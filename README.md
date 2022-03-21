@@ -16,3 +16,5 @@ add
 to the locator in the 
 `activity_main.xml` 
 file 
+
+![CODE](./app/src/main/res/drawable-v24/code.PNG)
