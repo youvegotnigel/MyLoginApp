@@ -11,4 +11,4 @@ Full Video Tutorial is available in Youtube Link : https://youtu.be/sOJRJtM_iu0
 
 # How to add Accessibility ID
 
-# add `android:contentDescription="Username Text Box"` to the locator in the `activity_main.xml` file 
+## add `android:contentDescription="Username Text Box"` to the locator in the `activity_main.xml` file 
